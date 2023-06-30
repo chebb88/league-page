@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Willkommen auf der Liga Seite unserer Fantasy Football League "Spacken 2.0"</p>
+  <p>Willkommen auf der Liga Seite unserer Fantasy Football League Spacken 2.0</p>
 `;
 
 /*   STEP 3   */
